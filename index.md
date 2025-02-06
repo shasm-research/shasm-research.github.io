@@ -8,11 +8,10 @@ title: SHASM Research
 # SHASM: The Science of Human and Artificial Social Minds
 
 ## Our Team
-
-- **Mahzarin Banaji** - Principal Investigator
-- **Steve Lehr** - Research Scientist
-- **Nykko Vitali** - PhD Student
-- **Ketan Suhaas Saichandran** - Researcher
+- Mahzarin Banaji - Principal Investigator
+- Steve Lehr - Research Scientist
+- Nykko Vitali - PhD Student
+- Ketan Suhaas Saichandran - Researcher
 
 ## Our Mission
 
@@ -30,4 +29,4 @@ Whether you're a researcher, student, or interested collaborator, we invite you 
 
 ## Contact
 
-[Contact information and ways to get involved]
+TBD
