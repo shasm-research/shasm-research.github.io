@@ -5,7 +5,7 @@ title: Papers
 
 # Papers
 
-<embed src="{{ site.baseurl }}/assets/papers/Ullman_TOM_LLMs.pdf" 
+<embed src="{{ site.baseurl }}/assets/papers/Ullman_TOM_Failures.pdf"
        type="application/pdf" 
        width="100%" 
        height="600px" />
