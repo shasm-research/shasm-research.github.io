@@ -3,6 +3,8 @@ layout: default
 title: SHASM Research
 ---
 
+[Home](/) | [Papers](/papers)
+
 # SHASM: The Science of Human and Artificial Social Minds
 
 ## Our Team
