@@ -4,16 +4,10 @@ title: SHASM Research
 ---
 
 <div class="navigation">
-<a href="/ourwork">Our Work</a><span class="navigation-separator">|</span><a href="/papers">Interesting Papers</a>
+<a href="/ourwork">Our Work</a><span class="navigation-separator">|</span><a href="/papers">Interesting Papers</a><span class="navigation-separator">|</span><a href="/team">Our Team</a>
 </div>
 
 # SHASM: The Science of Human and Artificial Social Minds
-
-## Our Team
-- Mahzarin Banaji - Principal Investigator
-- Steve Lehr - Research Scientist
-- Nykko Vitali - PhD Student
-- Ketan Suhaas Saichandran - Researcher
 
 ## Our Mission
 SHASM investigates the intersection of human and artificial social cognition. We explore how humans and AI systems develop, understand, and navigate social interactions. Our goal is to advance the understanding of social intelligence across both natural and artificial minds.
