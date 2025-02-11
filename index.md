@@ -3,7 +3,7 @@ layout: default
 title: SHASM Research
 ---
 
-[Home](/) | [Papers](/papers) | [Our Work](/ourwork)
+[Home](/) | [Interesting Papers](/papers) | [Our Work](/ourwork)
 
 # SHASM: The Science of Human and Artificial Social Minds
 
