@@ -4,7 +4,7 @@ title: SHASM Research
 ---
 
 <div class="navigation">
-<a href="/">Home</a><span class="navigation-separator">|</span><a href="/ourwork">Our Work</a><span class="navigation-separator">|</span><a href="/papers">Interesting Papers</a>
+<a href="/ourwork">Our Work</a><span class="navigation-separator">|</span><a href="/papers">Interesting Papers</a>
 </div>
 
 # SHASM: The Science of Human and Artificial Social Minds
