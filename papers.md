@@ -4,6 +4,14 @@ title: Papers
 ---
 # Papers
 
+## Do Scaled LLMs Develop Coherent Values? Testing Value Systems Through Utility Functions
+<div style="margin-bottom: 40px;">
+    <embed src="{{ site.baseurl }}/assets/papers/utility_engineering.pdf"
+    type="application/pdf"
+    width="100%"
+    height="600px" />
+</div>
+
 ## What do the internal activations reveal about LLM preference?
 <div style="margin-bottom: 40px;">
     <embed src="{{ site.baseurl }}/assets/papers/2024_Hofman_AI_Bias.pdf"
@@ -19,4 +27,3 @@ title: Papers
     width="100%"
     height="600px" />
 </div>
-
