@@ -5,7 +5,7 @@ title: Papers
 # Papers
 
 ### Preprint
-### Kernels of Selfhood: How Language Models Display Human-Like Cognitive Patterns
+### GPT-4o & Cognitive Consistency
 <div style="margin-bottom: 40px;">
     <embed src="{{ site.baseurl }}/assets/papers/kernelsofselfhood.pdf"
     type="application/pdf"
