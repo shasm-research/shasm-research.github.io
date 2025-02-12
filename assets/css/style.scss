@@ -1,6 +1,5 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
 /* Title Styling */
@@ -9,6 +8,8 @@ header h1 {
   letter-spacing: 1px;
   margin-bottom: 25px;
 }
+
+/* Navigation Styling */
 .navigation {
   margin: 20px 0;
   text-align: center;
@@ -17,7 +18,6 @@ header h1 {
 .navigation a {
   color: #267CB9;
   text-decoration: none;
-  // padding: 0 20px;
   font-size: 18px;
 }
 
@@ -28,4 +28,51 @@ header h1 {
 .navigation-separator {
   color: #ccc;
   margin: 0 10px;
+}
+
+/* Table of Contents Styling */
+.toc-sidebar {
+  position: fixed;
+  right: 20px;
+  top: 70px;
+  width: 200px;
+  padding: 20px;
+  background: #fff;
+  border-left: 1px solid #eee;
+}
+
+.toc-container {
+  position: sticky;
+  top: 20px;
+}
+
+.toc-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.toc-sidebar li {
+  margin: 8px 0;
+  font-size: 14px;
+  border-left: 2px solid transparent;
+  padding-left: 10px;
+}
+
+.toc-sidebar li:hover {
+  border-left: 2px solid #0366d6;
+}
+
+.toc-sidebar li a {
+  color: #666;
+  text-decoration: none;
+  display: block;
+  padding: 4px 0;
+}
+
+.toc-sidebar a:hover {
+  color: #0366d6;
+}
+
+section {
+  width: calc(100% - 260px);
 }
