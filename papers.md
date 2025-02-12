@@ -4,8 +4,7 @@ title: Papers
 ---
 # Papers
 
-### Preprint
-### GPT-4o & Cognitive Consistency
+### Preprint - GPT-4o & Cognitive Consistency
 <div style="margin-bottom: 40px;">
     <embed src="{{ site.baseurl }}/assets/papers/kernelsofselfhood.pdf"
     type="application/pdf"
