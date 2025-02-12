@@ -4,7 +4,6 @@ title: Papers
 ---
 # Papers
 
-## Cognitive Science & AI
 
 ### Kernels of Selfhood: How Language Models Display Human-Like Cognitive Patterns
 <div style="margin-bottom: 40px;">
@@ -14,11 +13,18 @@ title: Papers
     height="600px" />
 </div>
 
-## Large Language Models & Social Behavior
 
-### Can We Simulate Human Social Behavior? A Study of 1000 AI-Generated Personas
+### Can LLMs Simulate Human Social Behavior? A Study of 1000 AI-Generated Personas
 <div style="margin-bottom: 40px;">
     <embed src="{{ site.baseurl }}/assets/papers/SimulatedPeople.pdf"
+    type="application/pdf"
+    width="100%"
+    height="600px" />
+</div>
+
+### The Impact of Generative AI on Human Critical Thinking
+<div style="margin-bottom: 40px;">
+    <embed src="{{ site.baseurl }}/assets/papers/lee_2025_ai_critical_thinking_survey.pdf"
     type="application/pdf"
     width="100%"
     height="600px" />
@@ -48,12 +54,4 @@ title: Papers
     height="600px" />
 </div>
 
-## Human-AI Interaction
 
-### The Impact of Generative AI on Human Critical Thinking
-<div style="margin-bottom: 40px;">
-    <embed src="{{ site.baseurl }}/assets/papers/lee_2025_ai_critical_thinking_survey.pdf"
-    type="application/pdf"
-    width="100%"
-    height="600px" />
-</div>
