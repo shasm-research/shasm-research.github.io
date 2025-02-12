@@ -45,7 +45,7 @@ title: Papers
     height="600px" />
 </div>
 
-### Do LLMs have Theory of Mind?
+### Preprint - Do LLMs have Theory of Mind?
 <div style="margin-bottom: 40px;">
     <embed src="{{ site.baseurl }}/assets/papers/Ullman_TOM_Failures.pdf"
     type="application/pdf"
